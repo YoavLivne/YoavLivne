@@ -1,13 +1,9 @@
-Hi!
+Hi, I'm Yoav 👋
 
-I'm a M.Sc. student in computational biology at Tel Aviv University, working on mitonuclear incompatibility and sympatric speciation in killer whales :whale:. 
+I'm an M.Sc. student in computational biology at Tel Aviv University. I’m currently working on mitonuclear incompatibility and sympatric speciation in killer whales 🐳.
 
-My background combines research in ecology and systematics with science communication and teaching. 
+Most of my work combines evolutionary biology with computational tools. I use Python for simulations, modelling, and data analysis, and I’m generally interested in how complex evolutionary processes play out in real populations.
 
-I apply computational tools and data analysis to problems in evolutionary biology, with experience in modeling, simulation, and working across theory and empirical data. 
+My background is in ecology and systematics, and I’ve also spent a lot of time teaching and doing science communication. On this GitHub you’ll mostly find the code behind my modelling projects, analysis scripts, and small tools I built along the way.
 
-My background includes Python programming, scientific computing, and interdisciplinary research in ecology, evolution, and genetics. 
-
-Experienced in leading teams, developing educational programs, and teaching. 
-
-Excellent interpersonal skills, task-oriented, and driven to make an impact both academically and socially.
+Always happy to talk about evolution, modelling ideas, or anything related to population genetics and ecology.
