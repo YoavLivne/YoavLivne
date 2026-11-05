@@ -1,6 +1,6 @@
 Hi, I'm Yoav 👋
 
-I'm an M.Sc. student in computational biology at Tel Aviv University. I’m currently working on mitonuclear incompatibility and sympatric speciation in killer whales 🐳.
+I recently completed my M.Sc. in Zoology and Computational Biology at Tel Aviv University. My thesis research focused on mitonuclear incompatibility, matrilineal social structure, and sympatric speciation in killer whales 🐳, and I am currently preparing this work for publication.
 
 Most of my work combines evolutionary biology with computational tools. I use Python for simulations, modelling, and data analysis, and I’m generally interested in how complex evolutionary processes play out in real populations.
 
